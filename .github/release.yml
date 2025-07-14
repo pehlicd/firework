@@ -3,6 +3,11 @@ name: Kaboom
 on:
   push:
     tags: ['v*.*.*']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag to release'
+        required: true
 
 permissions:
   contents: write

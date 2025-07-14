@@ -11,7 +11,7 @@
 !README.md
 !LICENSE
 !assets/*
-!.github/
+!.github/*
 
 # ...even if they are in subdirectories
 !*/
