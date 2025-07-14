@@ -1,4 +1,4 @@
-name: Kaboom
+name: release
 
 on:
   push:
