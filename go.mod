@@ -1,4 +1,4 @@
-module firework
+module github.com/pehlicd/firework
 
 go 1.24.4
 
