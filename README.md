@@ -6,8 +6,14 @@
 
 ## Installation
 
-You can easily install with go:
+### Brew
 
 ```bash
-  go install github.com/pehlicd/firework@latest
+brew install pehlicd/tap/firework
+```
+
+### Go
+
+```bash
+go install github.com/pehlicd/firework@latest
 ```
