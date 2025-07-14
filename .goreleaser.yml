@@ -1,8 +1,9 @@
+version: 2
+
 before:
   hooks:
-    - run: go mod tidy
-      when: before
-    - run: go mod download
+    - go mod tidy
+    - go mod download
 builds:
   - id: firework
     main: .
