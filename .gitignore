@@ -10,7 +10,7 @@
 
 !README.md
 !LICENSE
-!assets/
+!assets/*
 !.github/
 
 # ...even if they are in subdirectories
